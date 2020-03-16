@@ -15,6 +15,6 @@
  
 # Screenshots :
 
-![Screenshot](https://github.com/SofianeHamlaoui/MBS/blob/master/static/query.png)
-![Screenshot](https://github.com/SofianeHamlaoui/MBS/blob/master/static/search.png)
-![Screenshot](https://github.com/SofianeHamlaoui/MBS/blob/master/static/results.png)
+![Screenshot](static/query.png)
+![Screenshot](static/search.png)
+![Screenshot](static/results.png)
