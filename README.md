@@ -18,3 +18,14 @@
 ![Screenshot](static/query.png)
 ![Screenshot](static/search.png)
 ![Screenshot](static/results.png)
+
+
+# Credits :
+ Sofiane Hamlaoui [contact@sofianehamlaoui.me]
+ 
+ Twitter : 
+<a href="https://twitter.com/S0fianeHamlaoui" alt="Twitter">
+        <img src="https://badgen.net/twitter/follow/S0fianeHamlaoui" />
+  
+  
+  
