@@ -181,8 +181,6 @@ def filesearching(nb):
         time.sleep(2)
         menu()
 
-def Searchshared():
-    
 
 def menu():
     printlogo()
@@ -195,7 +193,6 @@ def menu():
             \033[0;36m1 )\033[0m \033[1;33mMamont (FTP) [The Best One]
             \033[0;36m2 )\033[0m \033[1;33mFreewareWeb (FTP)
             \033[0;36m3 )\033[0m \033[1;33mFilesearching (FTP)
-            \033[0;36m4 )\033[0m \033[1;33mSearch Shared (Links)
 
             \033[0;36ma )\033[0m \033[1;33mLeave MBS\033[0m
             \033[0;36mq )\033[0m \033[1;33mLeave MBS\033[0m
