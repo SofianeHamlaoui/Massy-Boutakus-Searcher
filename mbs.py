@@ -112,7 +112,6 @@ def mamont(nb):
         time.sleep(2)
         menu()
 
-
 def freeware(nb):
     printlogo()
     print(" \033[92m                                FreeWareWeb Search ( FTP )\033[0m")
@@ -182,6 +181,8 @@ def filesearching(nb):
         time.sleep(2)
         menu()
 
+def Searchshared():
+    
 
 def menu():
     printlogo()
