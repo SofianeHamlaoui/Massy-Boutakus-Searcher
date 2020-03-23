@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/yMLTGLL.png">
-  <h1 align="center">MBS : Massy Boutakus Searcher</h1>
+  <h1 align="center">Massy Boutakus Searcher</h1>
   <h2 align="center">An FTP/HTTP Servers Files Seacher</h2>
 </p>
 
